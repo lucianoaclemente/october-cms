@@ -1,0 +1,21 @@
+{
+    "name": "lucianoaclemente/instagramapi",
+    "description": "Instagram galery plugin for OctoberCMS",
+    "keywords": ["october", "cms", "instagram"],
+    "authors": [
+        {
+            "name": "Luciano Clemente",
+            "email": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "php-instagram-api/php-instagram-api": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/lucianoaclemente/october-cms"
+        }
+    ]
+}
